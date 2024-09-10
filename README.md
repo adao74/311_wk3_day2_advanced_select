@@ -6,6 +6,8 @@ You should have already created a Google Cloud account, created an instance and 
 
 * Open MySQL Workbench
 
+ALTERNATIVE SETUP: https://sqlfiddle.com/mysql/online-compiler or https://www.db-fiddle.com/ 
+
 ## Part 1 - Initialize data
 
 We'll use the same database as we did yesterday but this new initialization will delete or `DROP` our existing table of `users` and replace it with three new tables: `usersAddress`, `users`, & `usersContact`. To do this:
